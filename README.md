@@ -25,16 +25,16 @@ N/A
 ## Usage
 See the following screenshots for an illustration of the functionality
 
-![Screenshot](/Users/karlawubbenhorst/bootcamp/rochambeau/Assets/images/Screen Shot 2023-10-12 at 10.35.11 PM.png)
-![Screenshot](/Users/karlawubbenhorst/bootcamp/rochambeau/Assets/images/Screen Shot 2023-10-12 at 10.35.30 PM.png)
-![Screenshot](/Users/karlawubbenhorst/bootcamp/rochambeau/Assets/images/Screen Shot 2023-10-12 at 10.35.56 PM.png)
-![Screenshot](/Users/karlawubbenhorst/bootcamp/rochambeau/Assets/images/Screen Shot 2023-10-12 at 10.36.10 PM.png)
-![Screenshot](/Users/karlawubbenhorst/bootcamp/rochambeau/Assets/images/Screen Shot 2023-10-12 at 10.36.29 PM.png)
-![Screenshot](/Users/karlawubbenhorst/bootcamp/rochambeau/Assets/images/Screen Shot 2023-10-12 at 10.36.45 PM.png)
-![Screenshot](/Users/karlawubbenhorst/bootcamp/rochambeau/Assets/images/Screen Shot 2023-10-12 at 10.37.58 PM.png)
-![Screenshot](/Users/karlawubbenhorst/bootcamp/rochambeau/Assets/images/Screen Shot 2023-10-12 at 10.40.30 PM.png)
-![Screenshot](/Users/karlawubbenhorst/bootcamp/rochambeau/Assets/images/Screen Shot 2023-10-12 at 10.40.55 PM.png)
-![Screenshot](/Users/karlawubbenhorst/bootcamp/rochambeau/Assets/images/Screen Shot 2023-10-12 at 10.41.34 PM.png)
+![Screenshot](Assets/images/Screen Shot 2023-10-12 at 10.35.11 PM.png)
+![Screenshot](Assets/images/Screen Shot 2023-10-12 at 10.35.30 PM.png)
+![Screenshot](Assets/images/Screen Shot 2023-10-12 at 10.35.56 PM.png)
+![Screenshot](Assets/images/Screen Shot 2023-10-12 at 10.36.10 PM.png)
+![Screenshot](Assets/images/Screen Shot 2023-10-12 at 10.36.29 PM.png)
+![Screenshot](Assets/images/Screen Shot 2023-10-12 at 10.36.45 PM.png)
+![Screenshot](Assets/images/Screen Shot 2023-10-12 at 10.37.58 PM.png)
+![Screenshot](Assets/images/Screen Shot 2023-10-12 at 10.40.30 PM.png)
+![Screenshot](Assets/images/Screen Shot 2023-10-12 at 10.40.55 PM.png)
+![Screenshot](Assets/images/Screen Shot 2023-10-12 at 10.41.34 PM.png)
 
 
 ## Credits
